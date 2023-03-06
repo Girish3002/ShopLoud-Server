@@ -110,7 +110,8 @@ coverage
 .env.example
 .editorconfig
 .eslintignore
-eslintrc
+.eslintrc
+database
 favicon.ico
 license.txt
 exports
