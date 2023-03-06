@@ -107,6 +107,11 @@ coverage
 ############################
 
 .env
+.env.example
+.editorconfig
+.eslintignore
+eslintrc
+favicon.ico
 license.txt
 exports
 *.cache
